@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Sowjanya&fontSize=90&animation=twinkling&fontAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Sowjanya&fontSize=90&animation=twinkling&fontAlign=60" />
 <h1 align="center">Hi 👋, I'm Sowjanya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SMLakshmiSowjanya&label=Profile%20views&color=brightgreen&style=flat" alt="SMLakshmiSowjanya" /> </p>

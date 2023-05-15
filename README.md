@@ -22,12 +22,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Java Script"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SMLakshmiSowjanya&show_icons=true&locale=en&layout=compact" alt="SMLakshmiSowjanya" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowjanya-sunkara&show_icons=true&locale=en&layout=compact" alt="sowjanya-sunkara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SMLakshmiSowjanya&show_icons=true&locale=en" alt="SMLakshmiSowjanya" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowjanya-sunkara&show_icons=true&locale=en" alt="sowjanya-sunkara" /></p> -->
 
 ### My Stats🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SMLakshmiSowjanya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sowjanya-sunkara&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMLakshmiSowjanya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

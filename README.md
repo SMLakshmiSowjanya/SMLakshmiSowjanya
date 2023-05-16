@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">**KOTLIN**</a>
 - 📧 Contact me **smlakshmisowjanya@gmail.com**
+- Open to collaborating on interesting and innovative projects.
 
 <h3 align="left">Avaialable:</h3>
 <p align="left">
